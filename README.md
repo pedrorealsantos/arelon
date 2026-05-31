@@ -1,2 +1,0 @@
-# arelon
-arelon_server
